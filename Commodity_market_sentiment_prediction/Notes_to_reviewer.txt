@@ -1,0 +1,5 @@
+1) Capstone Proposal project review link:
+
+https://review.udacity.com/?utm_medium=email&utm_campaign=reviewsapp-submission-reviewed&utm_source=blueshift&utm_content=reviewsapp-submission-reviewed&bsft_eid=6f154690-7543-4582-9be7-e397af208dbd&bsft_clkid=9955af39-674a-4e85-a1e9-63699c82def1&bsft_uid=7f91fc1a-eeed-4fe1-b189-4891852846f3&bsft_mid=06203b24-df5c-4290-95a0-8c4b47453dd2&bsft_txnid=e68b91d1-61a5-4038-b9f5-ec5d9cfd5b32#!/reviews/481233
+
+2) The project report is 20 pages in length (of which at least five pages of tables and figures), but I have added an Appendix of an extra 7 pages to simply report tables with results for commodty markets other than the Oil market.
